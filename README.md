@@ -21,3 +21,7 @@ Smart TabS not only increases users productivity. It can also fuel your creativi
 It is in beta now and available [for Chrome](https://chromewebstore.google.com/detail/tochunka-smart-tabs/djgplmmlaeekpcgjphelaboajmfgcdij) and [Firefox](https://addons.mozilla.org/uk/firefox/addon/tochunka-smart-tabs/).
 
 Unfortunately, not for Safari because the browser still doesn't provide necessary API functions to move tabs and bookmarks. 
+
+## Contribute
+
+You may propose [_content.js_](content.js) code updates for a specific pages content extraction or other changes that you are considering important.
